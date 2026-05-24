@@ -1,0 +1,28 @@
+{
+  "name": "单词本 - 艾宾浩斯记忆",
+  "short_name": "单词本",
+  "description": "自定义单词，艾宾浩斯曲线科学复习，六级考研真题例句",
+  "start_url": "/",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "orientation": "portrait",
+  "background_color": "#F2F2F7",
+  "theme_color": "#007AFF",
+  "scope": "/",
+  "categories": ["education", "productivity"],
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'%3E%3Crect width='192' height='192' rx='32' fill='%23007AFF'/%3E%3Ctext x='96' y='128' font-size='96' text-anchor='middle' fill='white' font-family='-apple-system,serif' font-weight='bold'%3E词%3C/text%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='64' fill='%23007AFF'/%3E%3Ctext x='256' y='340' font-size='240' text-anchor='middle' fill='white' font-family='-apple-system,serif' font-weight='bold'%3E词%3C/text%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
